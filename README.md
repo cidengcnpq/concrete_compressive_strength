@@ -1,7 +1,7 @@
 # Comparison of machine learning techniques to predict the compressive strength of concrete
 
 This is an Undergrad Research Project developed at the Federal University of Ouro Preto with the goal of predicting the compressive strength of concrete. 
-Tecnologias Utilizadas: Python, Pandas, Sklearn, Tensorflow, XGBoost, Matplotlib.
+We used the following technologies: Python, Pandas, Sklearn, Tensorflow, XGBoost, Matplotlib.
 
 The training database was extracted from I. C. Yeh, "Modeling of strength of high-performance concrete using artificial neural networks," Cement and Concrete research, pp. 1797-1808, 1998.
 
